@@ -13,4 +13,4 @@ Edit these global variables in main.cpp:
 ```cpp
 wstring SERVER       = L"example.com";
 int     PORT         = 443;
-wstring UPLOAD_PATH   = L"/upload/";
+wstring UPLOAD_PATH  = L"/upload/";
